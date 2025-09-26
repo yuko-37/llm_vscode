@@ -3,6 +3,7 @@ brochure.md
 for_tests.py
 TODO.txt
 .virtual_documents
+.gradio
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
